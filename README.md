@@ -4,11 +4,11 @@
 
 本記事及び本授業で配布するファイルの著作権は、本授業担当者であるオオクボユウトに帰属する。
 
-・SciEdu4-2.docx：指導案
+・SciEdu4-4.docx：指導案
 
-・SciEdu4-2.pdf：授業資料
+・SciEdu4-4.pdf：授業資料
 
-・SciEdu4-2.pptx：授業資料（修正できる）
+・SciEdu4-4.pptx：授業資料（修正できる）
 
 ・README.md：無視してかまわない
 
